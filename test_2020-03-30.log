@@ -1,0 +1,145 @@
+BT Test Central:
+30 19:56:40:creating CM object
+30 19:56:40:created CM object
+30 19:56:51:creating CM object
+30 19:56:51:created CM object
+30 19:56:51:CM restored
+30 19:56:58:creating CM object
+30 19:56:58:created CM object
+30 19:56:58:CM restored
+30 20:17:39:creating CM object
+30 20:17:39:created CM object
+30 20:23:10:creating CM object
+30 20:23:10:created CM object
+30 20:23:10:CM restored
+30 20:27:22:creating CM object
+30 20:27:22:created CM object
+30 20:27:22:CM restored
+30 21:24:28:creating CM object
+30 21:24:28:created CM object
+30 21:24:28:central manager not powered on
+30 21:24:51:creating CM object
+30 21:24:51:created CM object
+30 21:24:51:central manager not powered on
+30 21:25:09:creating CM object
+30 21:25:09:created CM object
+30 21:25:20:creating CM object
+30 21:25:20:created CM object
+30 21:25:20:CM restored
+30 21:26:01:called with a to-be-restored centralManager
+30 21:26:01:creating CM object
+30 21:26:01:created CM object
+30 21:26:01:CM restored
+30 21:26:01:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -96
+30 21:26:02:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -87
+30 21:26:19:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -56
+30 21:26:27:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -40
+30 21:32:11:creating CM object
+30 21:32:11:created CM object
+30 21:32:11:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -49
+30 21:33:01:called with a to-be-restored centralManager
+30 21:33:01:creating CM object
+30 21:33:01:created CM object
+30 21:33:01:CM restored
+30 21:33:01:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -43
+30 21:33:02:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -44
+30 21:37:43:creating CM object
+30 21:37:43:created CM object
+30 21:37:43:CM restored
+30 21:37:43:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -46
+30 21:39:16:creating CM object
+30 21:39:16:created CM object
+30 21:39:16:CM restored
+30 21:39:16:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -59
+30 21:39:33:creating CM object
+30 21:39:33:created CM object
+30 21:39:33:CM restored
+30 21:39:33:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -46
+30 21:40:29:creating CM object
+30 21:40:29:created CM object
+30 21:40:29:CM restored
+30 21:40:29:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -43
+30 21:40:40:creating CM object
+30 21:40:40:created CM object
+30 21:40:40:CM restored
+30 21:40:41:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -42
+30 21:42:01:creating CM object
+30 21:42:01:created CM object
+30 21:42:01:CM restored
+30 21:42:01:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -43
+30 21:43:14:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -65
+30 21:43:19:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -62
+30 21:43:25:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -79
+30 21:44:32:creating CM object
+30 21:44:32:created CM object
+30 21:45:36:called with a to-be-restored centralManager
+30 21:45:36:creating CM object
+30 21:45:36:created CM object
+30 21:45:36:CM restored
+30 21:45:36:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -99
+30 21:45:38:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -90
+30 21:45:57:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -77
+30 21:45:59:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -65
+30 21:50:01:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -71
+30 21:50:04:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -60
+30 21:50:06:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -66
+30 21:50:26:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -61
+30 21:54:18:p: E050D640-D296-BA91-B9CC-2DA419037E80 r: -91
+
+https://pastebin.com/D9PTTDwJ
+
+
+BT Test Peripheral:
+
+30 21:23:14:creating PM object
+30 21:23:14:created PM object
+30 21:23:19:peripheral manager not powered on
+30 21:23:42:creating PM object
+30 21:23:42:created PM object
+30 21:23:42:peripheral manager not powered on
+30 21:24:02:creating PM object
+30 21:24:02:created PM object
+30 21:24:03:added service
+30 21:24:03:start Adv
+30 21:33:17:creating PM object
+30 21:33:17:created PM object
+30 21:33:17:PM restored: 
+30 21:33:17:peripheral manager not powered on
+30 21:33:26:creating PM object
+30 21:33:26:created PM object
+30 21:33:27:PM restored: 
+30 21:33:27:peripheral manager not powered on
+30 21:34:32:creating PM object
+30 21:34:32:created PM object
+30 21:34:32:PM restored: 
+30 21:34:32:added service
+30 21:34:32:start Adv
+30 21:34:56:creating PM object
+30 21:34:56:created PM object
+30 21:34:56:PM restored: 
+30 21:34:56:peripheral manager not powered on
+30 21:36:01:creating PM object
+30 21:36:01:created PM object
+30 21:36:01:PM restored: 
+30 21:36:01:peripheral manager not powered on
+30 21:37:38:creating PM object
+30 21:37:38:created PM object
+30 21:37:38:PM restored: 
+30 21:37:38:added service
+30 21:37:38:start Adv
+30 21:38:37:creating PM object
+30 21:38:37:created PM object
+30 21:38:37:PM restored: 
+30 21:38:37:added service
+30 21:38:37:start Adv
+30 21:41:04:creating PM object
+30 21:41:04:created PM object
+30 21:41:04:PM restored: 
+30 21:41:04:added service
+30 21:41:04:start Adv
+30 21:58:11:creating PM object
+30 21:58:11:created PM object
+30 21:58:11:PM restored: 
+30 21:58:11:peripheral manager not powered on
+
+https://pastebin.com/VdrXsnUS
