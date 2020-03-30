@@ -63,6 +63,10 @@ class ViewController: UIViewController {
 
     @IBAction func toggleOn(_ sender: UIButton) {
         state.isOn = !state.isOn
+        if(!state.isOn) {
+            appDelegate.centralManager?.stopScan()
+            appDelegate.centralManager = nil
+        }
         toggleLabel()
         appDelegate.saveState()
     }
